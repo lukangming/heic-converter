@@ -1,0 +1,31 @@
+# Qt相关
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+Makefile*
+*.o
+moc_*
+ui_*
+qrc_*
+.qmake.cache
+.qmake.stash
+
+# 编译输出
+build/
+debug/
+release/
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+
+# IDE相关
+.vscode/
+.idea/
+*.user
+*.autosave
+
+# 系统文件
+.DS_Store
+Thumbs.db 
